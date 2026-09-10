@@ -1,0 +1,23 @@
+# 公开范围与许可证说明 / Public Scope and License Notice
+
+本仓库是脱敏案例与参考实现，不是生产源码。
+
+This repository is a sanitized case study and reference implementation, not production source code.
+
+## 不包含 / Not included
+
+生产环境接口、企业内部代码、真实业务数据、完整生产 Prompt、平台配置、真实密钥、真实表格链接、真实用户或员工信息均未包含。
+
+Production integrations, proprietary code, real business data, full production prompts, platform configurations, credentials, production table URLs, and real user or employee information are not included.
+
+## Mock 说明 / Mock components
+
+公开版本中的 OCR、Semantic Parser、Writer、Reply Dispatcher 均为 Mock 或参考实现，只展示原项目对应的数据流和接口边界。
+
+OCR, Semantic Parser, Writer, and Reply Dispatcher are mock or reference components. They demonstrate the data flow and interface boundaries grounded in the original workflow.
+
+## License
+
+由于无法在公开仓库中确认生产代码的知识产权边界，本仓库暂不默认使用 MIT License。最终开源许可证需由项目所有者确认。
+
+This repository does not default to the MIT License. The final open-source license should be confirmed by the project owner.
