@@ -1,0 +1,30 @@
+{
+  "conversation_id": "demo-conv-1",
+  "registrar": "客服A",
+  "messages": [
+    {
+      "id": "m1",
+      "type": "text",
+      "timestamp": 1,
+      "text": "通州区金沙润惠多超市护舒宝执行重点空了，麻烦看一下"
+    },
+    {
+      "id": "m2",
+      "type": "text",
+      "timestamp": 2,
+      "text": "合肥合鑫服务群，反馈人：张三"
+    },
+    {
+      "id": "m3",
+      "type": "image",
+      "timestamp": 3,
+      "ocr_text": "货架执行重点 不合格"
+    },
+    {
+      "id": "m4",
+      "type": "text",
+      "timestamp": 4,
+      "text": "登记"
+    }
+  ]
+}

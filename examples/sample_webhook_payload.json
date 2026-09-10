@@ -1,0 +1,11 @@
+{
+  "platform": "generic_messaging",
+  "conversation_id": "demo-conv-1",
+  "sender_id": "user_001",
+  "message_id": "msg_001",
+  "timestamp": 1780000000,
+  "type": "text",
+  "text": "通州区金沙润惠多超市护舒宝执行重点空了，麻烦看一下",
+  "image_url": null,
+  "quoted_message_id": null
+}
